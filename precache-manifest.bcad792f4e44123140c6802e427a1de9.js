@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef8ac2ec7a0995f8e46f153eb3376745",
+    "revision": "d25f9db8ab6ba14b452b8fb3bf3c2bef",
     "url": "/plant-book/index.html"
   },
   {
-    "revision": "c1175965eb39b439c65e",
-    "url": "/plant-book/static/css/main.a427e57c.chunk.css"
+    "revision": "8e95b485b48bd7a4aa85",
+    "url": "/plant-book/static/css/main.d9e66f5f.chunk.css"
   },
   {
     "revision": "805747b3aecc4143d9f8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plant-book/static/js/2.23f4dc26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1175965eb39b439c65e",
+    "revision": "8e95b485b48bd7a4aa85",
     "url": "/plant-book/static/js/main.fd2a5bbd.chunk.js"
   },
   {
