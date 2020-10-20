@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/plant-book/static/css/main.d9e66f5f.chunk.css",
-    "main.js": "/plant-book/static/js/main.fd2a5bbd.chunk.js",
-    "main.js.map": "/plant-book/static/js/main.fd2a5bbd.chunk.js.map",
+    "main.js": "/plant-book/static/js/main.35d59944.chunk.js",
+    "main.js.map": "/plant-book/static/js/main.35d59944.chunk.js.map",
     "runtime-main.js": "/plant-book/static/js/runtime-main.a257bdf1.js",
     "runtime-main.js.map": "/plant-book/static/js/runtime-main.a257bdf1.js.map",
-    "static/js/2.23f4dc26.chunk.js": "/plant-book/static/js/2.23f4dc26.chunk.js",
-    "static/js/2.23f4dc26.chunk.js.map": "/plant-book/static/js/2.23f4dc26.chunk.js.map",
+    "static/js/2.c4f494e8.chunk.js": "/plant-book/static/js/2.c4f494e8.chunk.js",
+    "static/js/2.c4f494e8.chunk.js.map": "/plant-book/static/js/2.c4f494e8.chunk.js.map",
     "index.html": "/plant-book/index.html",
-    "precache-manifest.bcad792f4e44123140c6802e427a1de9.js": "/plant-book/precache-manifest.bcad792f4e44123140c6802e427a1de9.js",
+    "precache-manifest.7aeb6ddea198334ef1e1eec10adf3cfd.js": "/plant-book/precache-manifest.7aeb6ddea198334ef1e1eec10adf3cfd.js",
     "service-worker.js": "/plant-book/service-worker.js",
     "static/css/main.d9e66f5f.chunk.css.map": "/plant-book/static/css/main.d9e66f5f.chunk.css.map",
-    "static/js/2.23f4dc26.chunk.js.LICENSE.txt": "/plant-book/static/js/2.23f4dc26.chunk.js.LICENSE.txt",
+    "static/js/2.c4f494e8.chunk.js.LICENSE.txt": "/plant-book/static/js/2.c4f494e8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/plant-book/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a257bdf1.js",
-    "static/js/2.23f4dc26.chunk.js",
+    "static/js/2.c4f494e8.chunk.js",
     "static/css/main.d9e66f5f.chunk.css",
-    "static/js/main.fd2a5bbd.chunk.js"
+    "static/js/main.35d59944.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d25f9db8ab6ba14b452b8fb3bf3c2bef",
+    "revision": "600ffb7ce066c3d7cd52c2736c38007b",
     "url": "/plant-book/index.html"
   },
   {
-    "revision": "8e95b485b48bd7a4aa85",
+    "revision": "7bcf424e51d298260fc2",
     "url": "/plant-book/static/css/main.d9e66f5f.chunk.css"
   },
   {
-    "revision": "805747b3aecc4143d9f8",
-    "url": "/plant-book/static/js/2.23f4dc26.chunk.js"
+    "revision": "7520a9e8c4f23d6dc949",
+    "url": "/plant-book/static/js/2.c4f494e8.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/plant-book/static/js/2.23f4dc26.chunk.js.LICENSE.txt"
+    "url": "/plant-book/static/js/2.c4f494e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e95b485b48bd7a4aa85",
-    "url": "/plant-book/static/js/main.fd2a5bbd.chunk.js"
+    "revision": "7bcf424e51d298260fc2",
+    "url": "/plant-book/static/js/main.35d59944.chunk.js"
   },
   {
     "revision": "ce9e6cee4869f7ba927c",
